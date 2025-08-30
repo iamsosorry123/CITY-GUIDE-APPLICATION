@@ -32,3 +32,21 @@ It’s a beginner-friendly Java project demonstrating **GUI design, data managem
 ---
 
 ## 📂 Project Structure
+- KarurCityShopsApp.java
+- readme.md
+
+  ## 📂 To Execute
+
+---
+
+## 🚀 Getting Started
+
+### 🔹 Prerequisites
+- Install **Java JDK 8 or above** → [Download](https://www.oracle.com/java/technologies/javase-downloads.html)
+- Install **Git** → [Download](https://git-scm.com/downloads)
+
+### 🔹 Clone the Repository
+```bash
+git clone https://github.com/YOUR_USERNAME/KarurCityShopsApp.git
+cd KarurCityShopsApp
+
