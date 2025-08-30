@@ -35,10 +35,10 @@ It’s a beginner-friendly Java project demonstrating **GUI design, data managem
 - KarurCityShopsApp.java
 - readme.md
 
-  ## 📂 To Execute
+
 
 ---
-
+## 📂 To Execute
 ## 🚀 Getting Started
 
 ### 🔹 Prerequisites
